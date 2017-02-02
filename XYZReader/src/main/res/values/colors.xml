@@ -22,4 +22,22 @@
     <color name="theme_primary_dark">#04561A</color>
     <color name="theme_accent">#04561A</color>
     <color name="ltgray">#ffe0e0e0</color>
+
+
+
+
+    <color name="primary_color">#00BCD4</color> <!-- Cyan 500 -->
+    <color name="primary_color_light">#4DD0E1</color> <!-- Cyan 300 -->
+    <color name="primary_color_dark">#0097A7</color> <!-- Cyan 700 -->
+
+    <color name="secondary_color">#F50057</color> <!-- Pink A400 -->
+
+    <color name="title_color">#fff</color> <!-- White -->
+    <color name="subtitle_color">#8fff</color> <!-- White -->
+
+    <color name="title_color_card">#000</color> <!-- Black -->
+
+    <color name="text_color">#757575</color> <!-- Grey 600 -->
+    <color name="text_background">#fff</color> <!-- White -->
+
 </resources>
