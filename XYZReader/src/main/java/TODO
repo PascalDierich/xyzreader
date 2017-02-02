@@ -1,0 +1,15 @@
+TODO:
+
+    - new ColorSchema
+    - check dimens against Material Guidelines
+
+    MainActivity:
+        - Toolbar roll in
+        - change background color for loading image (facebook shining?)
+        - remove (bug) unnecessary movement of cardViews
+
+    DetailActivity:
+        - ColorSchema text Color
+        - resize top image
+        - move Title in Toolbar
+                ( --> see GooglePlay)
