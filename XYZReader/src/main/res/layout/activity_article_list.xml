@@ -28,6 +28,8 @@
         android:background="?colorPrimary"
         android:elevation="8dp">
 
+        <!-- TODO: change above color -->
+
         <android.support.v7.widget.Toolbar
             android:id="@+id/toolbar"
             app:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar"

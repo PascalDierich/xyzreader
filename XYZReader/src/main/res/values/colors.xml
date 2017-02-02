@@ -32,7 +32,7 @@
 
     <color name="secondary_color">#F50057</color> <!-- Pink A400 -->
 
-    <color name="title_color">#fff</color> <!-- White -->
+    <color name="title_color">#000</color> <!-- White -->
     <color name="subtitle_color">#8fff</color> <!-- White -->
 
     <color name="title_color_card">#000</color> <!-- Black -->
