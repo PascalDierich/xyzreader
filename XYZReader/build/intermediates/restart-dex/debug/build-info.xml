@@ -5,26 +5,26 @@
     density="420dpi"
     format="8"
     plugin-version="2.2.3"
-    timestamp="1519410715252"
+    timestamp="2606375075375"
     token="4983118004111049485"
-    verifier="FULL_BUILD_REQUESTED" >
+    verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
-        duration="1773" />
+        duration="0" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="418" />
+        duration="0" />
     <task
         name="verifier"
-        duration="49" />
+        duration="0" />
 
     <artifact
-        location="/Users/pascaldierich/Desktop/xyzreader/XYZReader/build/outputs/apk/XYZReader-debug.apk"
-        type="MAIN" />
+        location="/Users/pascaldierich/Desktop/xyzreader/XYZReader/build/intermediates/instant-run-resources/resources-debug.ir.ap_"
+        type="RESOURCES" />
 
     <build
         timestamp="1519410715252"
@@ -32,6 +32,13 @@
         <artifact
             location="/Users/pascaldierich/Desktop/xyzreader/XYZReader/build/outputs/apk/XYZReader-debug.apk"
             type="MAIN" />
+    </build>
+    <build
+        timestamp="2606375075375"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="/Users/pascaldierich/Desktop/xyzreader/XYZReader/build/intermediates/instant-run-resources/resources-debug.ir.ap_"
+            type="RESOURCES" />
     </build>
 
 </instant-run>
