@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <instant-run
-    abi="arm64-v8a,armeabi-v7a,armeabi"
+    abi="x86"
     api-level="25"
-    density="420dpi"
+    density="xxhdpi"
     format="8"
     plugin-version="2.2.3"
-    timestamp="5125204094340"
+    timestamp="3015836095310"
     token="4983118004111049485"
     verifier="COLD_SWAP_REQUESTED" >
 
@@ -27,31 +27,21 @@
         type="RESOURCES" />
 
     <build
-        timestamp="1519410715252"
+        timestamp="647277788173"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="/Users/pascaldierich/Desktop/xyzreader/XYZReader/build/outputs/apk/XYZReader-debug.apk"
             type="MAIN" />
     </build>
     <build
-        timestamp="4139051778774"
-        verifier="R_CLASS_CHANGE" >
-        <artifact
-            location="/Users/pascaldierich/Desktop/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex"
-            type="DEX" />
-        <artifact
-            location="/Users/pascaldierich/Desktop/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/5/slice_0/classes.dex"
-            type="DEX" />
-    </build>
-    <build
-        timestamp="4807700035225"
+        timestamp="2361289506596"
         verifier="COLD_SWAP_REQUESTED" >
         <artifact
             location="/Users/pascaldierich/Desktop/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/5/slice_3/classes.dex"
             type="DEX" />
     </build>
     <build
-        timestamp="5125204094340"
+        timestamp="3015836095310"
         verifier="COLD_SWAP_REQUESTED" >
         <artifact
             location="/Users/pascaldierich/Desktop/xyzreader/XYZReader/build/intermediates/instant-run-resources/resources-debug.ir.ap_"

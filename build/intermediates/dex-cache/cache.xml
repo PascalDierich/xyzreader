@@ -39,30 +39,12 @@
     </item>
     <item
         is-multidex="true"
-        jar="/Users/pascaldierich/Desktop/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/jars/libs/internal_impl-22.0.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="22.0.1"
-        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
-        <dex dex="/Users/pascaldierich/Desktop/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-22.0.0_422b6955684c8d016f5d1e9c4dfba4934eaf9ede/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="/Users/pascaldierich/Desktop/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="22.0.1"
         sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
         <dex dex="/Users/pascaldierich/Desktop/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-22.0.0_2b455c450ddffd5078dcb595d7d2bbfc85120079/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/pascaldierich/Desktop/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="22.0.1"
-        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
-        <dex dex="/Users/pascaldierich/Desktop/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-22.0.0_7ed4f4f47d2042b51e83a5979e56ae93620b26ec/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -75,21 +57,39 @@
     </item>
     <item
         is-multidex="true"
-        jar="/Users/pascaldierich/Desktop/xyzreader/XYZReader/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="22.0.1"
-        sha1="1039ba86493e00b46b219d32e098a44bddc2310a">
-        <dex dex="/Users/pascaldierich/Desktop/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_fd135ebcaf74385c6add80dd035aaf2dd9daf1e9/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="/Users/pascaldierich/Desktop/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/palette-v7/22.0.0/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="22.0.1"
         sha1="285506e1cf9d5a66878e2aab3884b3427f8734e9">
         <dex dex="/Users/pascaldierich/Desktop/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-palette-v7-22.0.0_c97ae0d3b9804cc47c44779ae451be90c9770f12/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pascaldierich/Desktop/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/jars/libs/internal_impl-22.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="/Users/pascaldierich/Desktop/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-22.0.0_422b6955684c8d016f5d1e9c4dfba4934eaf9ede/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pascaldierich/Desktop/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="/Users/pascaldierich/Desktop/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-22.0.0_7ed4f4f47d2042b51e83a5979e56ae93620b26ec/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pascaldierich/Desktop/xyzreader/XYZReader/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="3ba5448e9be3fbf5c92bcb42c19173054a261c0b">
+        <dex dex="/Users/pascaldierich/Desktop/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_fd135ebcaf74385c6add80dd035aaf2dd9daf1e9/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -115,7 +115,7 @@
         jumboMode="true"
         optimize="true"
         revision="22.0.1"
-        sha1="661d75034f2e15dbc294ef796eaf3923b6073791">
+        sha1="6c9210ff0db5098d148263c0e7cf8f45b0154762">
         <dex dex="/Users/pascaldierich/Desktop/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_83b71c5ec2bdab3ba166863f9c65a1accf199e7d/classes.dex" />
     </item>
     <item

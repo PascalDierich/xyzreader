@@ -1,4 +1,4 @@
-#Thu Feb 02 11:55:44 CET 2017
+#Mon Feb 06 10:49:21 CET 2017
 base.0=/Users/pascaldierich/Desktop/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_fd135ebcaf74385c6add80dd035aaf2dd9daf1e9
 renamed.1=classes2.dex
 renamed.0=classes.dex
