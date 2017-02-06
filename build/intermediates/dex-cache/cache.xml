@@ -169,7 +169,7 @@
         jumboMode="true"
         optimize="true"
         revision="22.0.1"
-        sha1="05b9cb66396e9db6ca817604e58b684aa898fb4d">
+        sha1="a7e5169abc700919a85749c44bbf8b465aff5f00">
         <dex dex="/Users/pascaldierich/Desktop/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_fd135ebcaf74385c6add80dd035aaf2dd9daf1e9/classes.dex" />
     </item>
     <item
@@ -187,7 +187,7 @@
         jumboMode="true"
         optimize="true"
         revision="22.0.1"
-        sha1="e429d6473858874f7343250d1346c27a7aa99dce">
+        sha1="13bae14fb9a5e251483b2608670cdd527af147ba">
         <dex dex="/Users/pascaldierich/Desktop/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_83b71c5ec2bdab3ba166863f9c65a1accf199e7d/classes.dex" />
     </item>
 

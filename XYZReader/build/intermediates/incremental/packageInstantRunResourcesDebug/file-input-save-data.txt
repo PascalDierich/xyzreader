@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Mon Feb 06 14:10:08 CET 2017
+#Mon Feb 06 14:26:27 CET 2017
 210.set=ANDROID_RESOURCE
 14.set=ANDROID_RESOURCE
 180.file=/Users/pascaldierich/Desktop/xyzreader/XYZReader/build/intermediates/res/resources-debug.ap_/res/drawable/abc_ic_clear_material.xml
