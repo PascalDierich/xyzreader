@@ -12,6 +12,15 @@
     </item>
     <item
         is-multidex="true"
+        jar="/Users/pascaldierich/Desktop/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/palette-v7/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="9d5ae39b0de30b0f73c815513024feff3542f36e">
+        <dex dex="/Users/pascaldierich/Desktop/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-palette-v7-25.1.1_94ffdf654eec1d9f17831e6667ee70515fd791a6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/Users/pascaldierich/Desktop/xyzreader/XYZReader/libs/volley.jar"
         jumboMode="true"
         optimize="true"
@@ -30,57 +39,129 @@
     </item>
     <item
         is-multidex="true"
-        jar="/Users/pascaldierich/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.0.0/support-annotations-22.0.0.jar"
+        jar="/Users/pascaldierich/Desktop/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/transition/25.1.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="22.0.1"
-        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
-        <dex dex="/Users/pascaldierich/Desktop/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-22.0.0_6e713de0aa6d8733873e2cfe6b7eaed993052fb4/classes.dex" />
+        sha1="15b049fedbd8e3926bf99d9e45dfc9b2a1043bb9">
+        <dex dex="/Users/pascaldierich/Desktop/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-transition-25.1.1_1604a2401437ad5d8716a619e67778af833a0975/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/pascaldierich/Desktop/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/jars/classes.jar"
+        jar="/Users/pascaldierich/Desktop/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="22.0.1"
-        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
-        <dex dex="/Users/pascaldierich/Desktop/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-22.0.0_2b455c450ddffd5078dcb595d7d2bbfc85120079/classes.dex" />
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="/Users/pascaldierich/Desktop/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.1.1_ac8c143c8e3ce47e2d12e3f01c05c3f95cc36de8/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/pascaldierich/Desktop/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v13/22.0.0/jars/libs/internal_impl-22.0.0.jar"
+        jar="/Users/pascaldierich/Desktop/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="22.0.1"
-        sha1="def3eff2b7b4774d96ae15b07b3fc0111edbfe24">
-        <dex dex="/Users/pascaldierich/Desktop/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-22.0.0_c304d947e2e051343e408eee5f9ef191232fee41/classes.dex" />
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="/Users/pascaldierich/Desktop/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.1.1_9006bab50db03ae2f624eae282096e9d82339f50/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/pascaldierich/Desktop/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/palette-v7/22.0.0/jars/classes.jar"
+        jar="/Users/pascaldierich/Desktop/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="22.0.1"
-        sha1="285506e1cf9d5a66878e2aab3884b3427f8734e9">
-        <dex dex="/Users/pascaldierich/Desktop/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-palette-v7-22.0.0_c97ae0d3b9804cc47c44779ae451be90c9770f12/classes.dex" />
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="/Users/pascaldierich/Desktop/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.1.1_7e7a8dd9e142416a259ddc803496b09e11fab06b/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/pascaldierich/Desktop/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/jars/libs/internal_impl-22.0.0.jar"
+        jar="/Users/pascaldierich/Desktop/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.1.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="22.0.1"
-        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
-        <dex dex="/Users/pascaldierich/Desktop/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-22.0.0_422b6955684c8d016f5d1e9c4dfba4934eaf9ede/classes.dex" />
+        sha1="c9649557905bf7a80fca9e0d54cbcb7662627860">
+        <dex dex="/Users/pascaldierich/Desktop/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-25.1.1_941dafc18bd9affb46e6d20299295996c41a9944/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/pascaldierich/Desktop/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/jars/classes.jar"
+        jar="/Users/pascaldierich/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.1/support-annotations-25.1.1.jar"
         jumboMode="true"
         optimize="true"
         revision="22.0.1"
-        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
-        <dex dex="/Users/pascaldierich/Desktop/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-22.0.0_7ed4f4f47d2042b51e83a5979e56ae93620b26ec/classes.dex" />
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="/Users/pascaldierich/Desktop/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.1_9639128a3fb449667d1f0274dda60e8ea3aac15e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pascaldierich/Desktop/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v13/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="058253c7da6cf5cb545922d07fcc2cd19d5d0ce1">
+        <dex dex="/Users/pascaldierich/Desktop/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v13-25.1.1_acda991228ef1f5fa70818649c732cc4e0526207/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pascaldierich/Desktop/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/design/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="cd7951e04cfb9a8bf008d544a478d9a8d8192d38">
+        <dex dex="/Users/pascaldierich/Desktop/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-25.1.1_2732a6d696c0b4ec59199f325da81ff025bf1e8b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pascaldierich/Desktop/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="/Users/pascaldierich/Desktop/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.1.1_fda585ef9fe969653f72878f9d18018210e12dba/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pascaldierich/Desktop/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="/Users/pascaldierich/Desktop/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.1.1_36b46926ea62da303a5e56caf5447a93ad87d5fa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pascaldierich/Desktop/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="/Users/pascaldierich/Desktop/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.1.1_ec744d69359aaebbd18a9b4db2d13326ec642f78/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pascaldierich/Desktop/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="a8ae156c2726ac9c56daaf4b49452ec2cdb7bba9">
+        <dex dex="/Users/pascaldierich/Desktop/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-25.1.1_42b05044970cc68671b4f2f30beaf1f71d7e2638/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pascaldierich/Desktop/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/pascaldierich/Desktop/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.1.1_c60d0f21c4c0cf1cbb6ee6bbe1444413aab8a552/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/pascaldierich/Desktop/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="/Users/pascaldierich/Desktop/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.1.1_4642d70815704729a0169e0bf28ca0aff233dd47/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -93,21 +174,12 @@
     </item>
     <item
         is-multidex="true"
-        jar="/Users/pascaldierich/Desktop/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v13/22.0.0/jars/classes.jar"
+        jar="/Users/pascaldierich/Desktop/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="22.0.1"
-        sha1="7f9cca1caa023a880b00c382bcc5c90245ae4895">
-        <dex dex="/Users/pascaldierich/Desktop/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v13-22.0.0_0598bd66e879577e10d84f1df8e4ca744eb0c629/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/pascaldierich/Desktop/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/22.0.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="22.0.1"
-        sha1="c6d79137693d494dee16372d3921f919eb724ced">
-        <dex dex="/Users/pascaldierich/Desktop/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-22.0.0_1fb3ddc17ca5104fdcbfc2bb433db8856ab56e9a/classes.dex" />
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="/Users/pascaldierich/Desktop/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.1.1_6ca20d06c20243e5574989d762c413132bd91a3c/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -115,17 +187,8 @@
         jumboMode="true"
         optimize="true"
         revision="22.0.1"
-        sha1="6c9210ff0db5098d148263c0e7cf8f45b0154762">
+        sha1="471f2f32a8fe867cb319b0d26eaf36bb65e0e01a">
         <dex dex="/Users/pascaldierich/Desktop/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_83b71c5ec2bdab3ba166863f9c65a1accf199e7d/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/pascaldierich/Desktop/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/cardview-v7/22.0.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="22.0.1"
-        sha1="11842de6a309c447b3a3d60d73ad637a87c58994">
-        <dex dex="/Users/pascaldierich/Desktop/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-22.0.0_726a69a29d7a93b45d8ae9d6b0058950fad525f3/classes.dex" />
     </item>
 
 </items>
