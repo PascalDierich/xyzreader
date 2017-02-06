@@ -9,28 +9,38 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent">
 
-        <FrameLayout
+        <LinearLayout
+            android:orientation="vertical"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content">
+            android:layout_height="match_parent">
 
-            <FrameLayout
+            <android.support.design.widget.AppBarLayout
                 android:id="@+id/photo_container"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:background="@color/photo_placeholder">
                 <!--suppress AndroidLintContentDescription -->
-                <ImageView
-                    android:id="@+id/photo"
-                    android:layout_width="match_parent"
-                    android:layout_height="100dp"
-                     />
 
-                <View
+                <android.support.design.widget.CollapsingToolbarLayout
                     android:layout_width="match_parent"
-                    android:layout_height="112dp"
-                    android:background="@drawable/photo_background_protection" />
+                    android:layout_height="wrap_content"
+                    app:layout_scrollFlags="scroll">
 
-            </FrameLayout>
+                    <com.example.xyzreader.ui.DynamicHeightNetworkImageView
+                        android:contentDescription="@string/content_description_detail"
+                        android:id="@+id/photo"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:scaleType="fitCenter"
+                        />
+
+                    <View
+                        android:layout_width="match_parent"
+                        android:layout_height="112dp"
+                        android:background="@drawable/photo_background_protection" />
+
+                </android.support.design.widget.CollapsingToolbarLayout>
+            </android.support.design.widget.AppBarLayout>
 
             <com.example.xyzreader.ui.MaxWidthLinearLayout
                 android:orientation="vertical"
@@ -38,9 +48,8 @@
                 android:layout_height="wrap_content"
                 android:layout_gravity="center_horizontal"
                 android:maxWidth="@dimen/detail_card_max_width"
-                android:background="@null"
-                android:elevation="2dp"
-                android:paddingTop="100dp"
+                android:background="@color/text_background"
+                android:elevation="5dp"
                 >
 
                 <!-- android:paddingTop="@dimen/detail_card_top_margin" -->
@@ -54,7 +63,8 @@
                     android:paddingLeft="@dimen/detail_inner_horiz_margin"
                     android:paddingRight="@dimen/detail_inner_horiz_margin"
                     android:paddingBottom="@dimen/detail_metabar_vert_padding"
-                    android:layout_marginBottom="@dimen/detail_metabar_vert_padding">
+                    android:layout_marginBottom="@dimen/detail_metabar_vert_padding"
+                    android:elevation="5dp">
 
                     <TextView
                         android:id="@+id/article_title"
@@ -90,7 +100,7 @@
                     android:lineSpacingMultiplier="@fraction/detail_body_line_spacing_multiplier" />
 
             </com.example.xyzreader.ui.MaxWidthLinearLayout>
-        </FrameLayout>
+        </LinearLayout>
     </com.example.xyzreader.ui.ObservableScrollView>
 
     <ImageButton android:id="@+id/share_fab"

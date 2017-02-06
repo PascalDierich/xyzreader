@@ -2,6 +2,7 @@ package com.example.xyzreader.ui;
 
 import android.app.Fragment;
 import android.app.LoaderManager;
+import android.content.Context;
 import android.content.Intent;
 import android.content.Loader;
 import android.database.Cursor;
@@ -10,6 +11,7 @@ import android.graphics.Color;
 import android.graphics.Rect;
 import android.graphics.Typeface;
 import android.graphics.drawable.ColorDrawable;
+import android.os.Build;
 import android.os.Bundle;
 import android.support.v4.app.ShareCompat;
 import android.support.v7.graphics.Palette;
@@ -20,7 +22,6 @@ import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
-import android.widget.ImageView;
 import android.widget.TextView;
 
 import com.android.volley.VolleyError;
@@ -50,8 +51,8 @@ public class ArticleDetailFragment extends Fragment implements
 
     private int mTopInset;
     private View mPhotoContainerView;
-    private ImageView mPhotoView;
     private int mScrollY;
+    private DynamicHeightNetworkImageView mPhotoView;
     private boolean mIsCard = false;
     private int mStatusBarFullOpacityBottom;
 
@@ -123,7 +124,7 @@ public class ArticleDetailFragment extends Fragment implements
             }
         });
 
-        mPhotoView = (ImageView) mRootView.findViewById(R.id.photo);
+        mPhotoView = (DynamicHeightNetworkImageView) mRootView.findViewById(R.id.photo);
         mPhotoContainerView = mRootView.findViewById(R.id.photo_container);
 
         mStatusBarColorDrawable = new ColorDrawable(0);
@@ -205,10 +206,17 @@ public class ArticleDetailFragment extends Fragment implements
                             if (bitmap != null) {
                                 Palette p = Palette.generate(bitmap, 12);
                                 mMutedColor = p.getDarkMutedColor(0xFF333333);
+
                                 mPhotoView.setImageBitmap(imageContainer.getBitmap());
 //                                mRootView.findViewById(R.id.meta_bar)
 //                                        .setBackgroundColor(mMutedColor);
 //                                updateStatusBar();
+                                mPhotoView.setAspectRatio(mCursor.getFloat(ArticleLoader.Query.ASPECT_RATIO));
+                                mPhotoView.setAspectRatio(mCursor.getFloat(ArticleLoader.Query.ASPECT_RATIO));
+
+                                mPhotoView.setImageUrl(
+                                        mCursor.getString(ArticleLoader.Query.PHOTO_URL),
+                                        ImageLoaderHelper.getInstance().getImageLoader());
                             }
                         }
 

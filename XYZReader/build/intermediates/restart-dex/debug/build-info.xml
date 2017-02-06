@@ -5,50 +5,57 @@
     density="xxhdpi"
     format="8"
     plugin-version="2.2.3"
-    timestamp="7410065653853"
+    timestamp="9886149400820"
     token="4983118004111049485"
     verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
-        duration="0" />
+        duration="489" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="0" />
+        duration="24" />
     <task
         name="verifier"
-        duration="0" />
+        duration="3" />
 
     <artifact
-        location="/Users/pascaldierich/Desktop/xyzreader/XYZReader/build/intermediates/instant-run-resources/resources-debug.ir.ap_"
-        type="RESOURCES" />
+        location="/Users/pascaldierich/Desktop/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/5/slice_3/classes.dex"
+        type="DEX" />
 
     <build
-        timestamp="5266787479861"
-        verifier="MANIFEST_FILE_CHANGE" >
+        timestamp="7940068159800"
+        verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="/Users/pascaldierich/Desktop/xyzreader/XYZReader/build/outputs/apk/XYZReader-debug.apk"
             type="MAIN" />
     </build>
     <build
-        timestamp="6434855731907"
+        timestamp="9622862392710"
         verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="/Users/pascaldierich/Desktop/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/5/slice_7/classes.dex"
+            type="DEX" />
         <artifact
             location="/Users/pascaldierich/Desktop/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/5/slice_0/classes.dex"
             type="DEX" />
-        <artifact
-            location="/Users/pascaldierich/Desktop/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/5/slice_3/classes.dex"
-            type="DEX" />
     </build>
     <build
-        timestamp="7410065653853"
+        timestamp="9853902502868"
         verifier="COLD_SWAP_REQUESTED" >
         <artifact
             location="/Users/pascaldierich/Desktop/xyzreader/XYZReader/build/intermediates/instant-run-resources/resources-debug.ir.ap_"
             type="RESOURCES" />
+    </build>
+    <build
+        timestamp="9886149400820"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="/Users/pascaldierich/Desktop/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/5/slice_3/classes.dex"
+            type="DEX" />
     </build>
 
 </instant-run>

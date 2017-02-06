@@ -28,12 +28,12 @@
         "source": "/Users/pascaldierich/Desktop/xyzreader/XYZReader/src/main/res/drawable/photo_background_protection.xml"
     },
     {
-        "merged": "/Users/pascaldierich/Desktop/xyzreader/XYZReader/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
-        "source": "/Users/pascaldierich/Desktop/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/res/drawable/abc_item_background_holo_light.xml"
-    },
-    {
         "merged": "/Users/pascaldierich/Desktop/xyzreader/XYZReader/build/intermediates/res/merged/debug/drawable/notification_icon_background.xml",
         "source": "/Users/pascaldierich/Desktop/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/Users/pascaldierich/Desktop/xyzreader/XYZReader/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
+        "source": "/Users/pascaldierich/Desktop/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/res/drawable/abc_item_background_holo_light.xml"
     },
     {
         "merged": "/Users/pascaldierich/Desktop/xyzreader/XYZReader/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
@@ -66,10 +66,6 @@
     {
         "merged": "/Users/pascaldierich/Desktop/xyzreader/XYZReader/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml",
         "source": "/Users/pascaldierich/Desktop/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/res/drawable/abc_btn_radio_material.xml"
-    },
-    {
-        "merged": "/Users/pascaldierich/Desktop/xyzreader/XYZReader/build/intermediates/res/merged/debug/drawable/abc_ratingbar_full_material.xml",
-        "source": "/Users/pascaldierich/Desktop/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/drawable/abc_ratingbar_full_material.xml"
     },
     {
         "merged": "/Users/pascaldierich/Desktop/xyzreader/XYZReader/build/intermediates/res/merged/debug/drawable/abc_ic_search_api_material.xml",

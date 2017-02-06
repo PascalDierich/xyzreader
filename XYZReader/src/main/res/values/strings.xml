@@ -9,4 +9,6 @@
 
     <string name="up">Up</string>
 
+    <string name="content_description_detail">Header Image of article</string>
+
 </resources>
