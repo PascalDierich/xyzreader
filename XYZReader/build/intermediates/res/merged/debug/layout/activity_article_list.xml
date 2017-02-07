@@ -36,7 +36,7 @@
             android:id="@+id/toolbar_container"
             android:layout_width="match_parent"
             android:layout_height="112dp"
-            android:background="@color/primary_color"
+            android:background="?colorPrimary"
             >
 
             <!-- TODO: change above color -->
@@ -48,7 +48,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="56dp"
                 android:layout_marginTop="56dp"
-                app:contentScrim="@color/primary_color"
+                app:contentScrim="?colorPrimary"
                 app:layout_scrollFlags="scroll|exitUntilCollapsed|enterAlways">
 
                 <android.support.v7.widget.Toolbar

@@ -3397,6 +3397,13 @@ containing a value of this type.
         public static final int Theme_AppCompat_Light_DialogWhenLarge=0x7f09011d;
         public static final int Theme_AppCompat_Light_NoActionBar=0x7f09011e;
         public static final int Theme_AppCompat_NoActionBar=0x7f09011f;
+        /** <item name="titleColor">@color/title_color</item>
+<item name="subtitleColor">@color/subtitle_color</item>
+<item name="titleColorCard">@color/title_color_card</item>
+<item name="android:textColorPrimary">@color/text_color</item>
+<item name="android:textColorSecondary">@color/secondary_color</item>
+<item name="textBackground">@color/text_background</item>
+         */
         public static final int Theme_Bacon=0x7f090120;
         public static final int Theme_Bacon_Detail=0x7f090121;
         public static final int Theme_Design=0x7f090122;
