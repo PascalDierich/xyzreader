@@ -5,26 +5,26 @@
     density="420dpi"
     format="8"
     plugin-version="2.2.3"
-    timestamp="2121382964901"
+    timestamp="2292390548876"
     token="4983118004111049485"
     verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
-        duration="378" />
+        duration="0" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="37" />
+        duration="0" />
     <task
         name="verifier"
-        duration="2" />
+        duration="0" />
 
     <artifact
-        location="/Users/pascaldierich/Desktop/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/5/slice_3/classes.dex"
-        type="DEX" />
+        location="/Users/pascaldierich/Desktop/xyzreader/XYZReader/build/intermediates/instant-run-resources/resources-debug.ir.ap_"
+        type="RESOURCES" />
 
     <build
         timestamp="1650138038671"
@@ -36,9 +36,6 @@
     <build
         timestamp="1993734068809"
         verifier="COLD_SWAP_REQUESTED" >
-        <artifact
-            location="/Users/pascaldierich/Desktop/xyzreader/XYZReader/build/intermediates/instant-run-resources/resources-debug.ir.ap_"
-            type="RESOURCES" />
         <artifact
             location="/Users/pascaldierich/Desktop/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex"
             type="DEX" />
@@ -55,6 +52,13 @@
         <artifact
             location="/Users/pascaldierich/Desktop/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/5/slice_3/classes.dex"
             type="DEX" />
+    </build>
+    <build
+        timestamp="2292390548876"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="/Users/pascaldierich/Desktop/xyzreader/XYZReader/build/intermediates/instant-run-resources/resources-debug.ir.ap_"
+            type="RESOURCES" />
     </build>
 
 </instant-run>
